@@ -1,0 +1,8 @@
+export const RACER_FETCHED = 'RACER_FETCHED';
+export const RACER_FAILED = 'RACER_FAILED';
+export const DETAIL_FETCHED = 'DETAIL_FETCHED';
+export const DETAIL_FAILED = 'DETAIL_FAILED';
+export const DETAIL_RESET = 'DETAIL_RESET';
+export const RESULT_FETCHED = 'RESULT_FETCHED';
+export const RESULT_FAILED = 'RESULT_FAILED';
+export const RESULT_RESET = 'RESULT_RESET';
